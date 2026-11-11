@@ -70,7 +70,7 @@ server_thread_proc :: (t: *Thread) -> s64 {
     });
 
     err := falcon_listen_and_serve(SERVER_PORT);
-    if err != .NONE {
+    if err.kind != .NONE {
         print("Server failed to start: %\n", err);
     }
     return 0;

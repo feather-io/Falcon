@@ -7,7 +7,7 @@
 // Everything related to the HTTP/1.1 protocol
 #load "http.jai";
 #load "router.jai";
-#import "Feather";
+#import,dir "modules/Feather";
 
 
 #add_context client_fd: Socket;
