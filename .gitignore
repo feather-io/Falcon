@@ -1,0 +1,18 @@
+# Jai temporary artifacts
+.build/
+*.dSYM/
+*.o
+*.a
+boomer
+ffte
+ffte2
+*.exe
+
+# System garbage
+.DS_Store
+Thumbs.db
+
+# Logs / profiling
+*.log
+profile.json
+profile.json.gz
