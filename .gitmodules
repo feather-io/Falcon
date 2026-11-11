@@ -1,0 +1,3 @@
+[submodule "modules/Feather"]
+	path = modules/Feather
+	url = git@github.com:feather-io/Feather.git
