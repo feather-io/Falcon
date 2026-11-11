@@ -22,3 +22,8 @@ profile.json.gz
 tests/client_tests
 tests/leak_tests
 tests/router_tests
+
+# Example binaries
+01_hello_world
+02_rest_api
+03_client_fetch
