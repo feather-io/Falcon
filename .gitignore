@@ -16,3 +16,9 @@ Thumbs.db
 *.log
 profile.json
 profile.json.gz
+
+
+# Test binaries
+tests/client_tests
+tests/leak_tests
+tests/router_tests
