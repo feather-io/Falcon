@@ -115,7 +115,7 @@ Falcon relies on the Feather asynchronous engine as a Git submodule:
 1. Clone Falcon with submodules
 
 ```sh
-git clone --recurse-submodules https://github.com/feather-io/falcon.git
+git clone --recurse-submodules git@github.com:feather-io/Falcon.git
 cd falcon
 ```
 
